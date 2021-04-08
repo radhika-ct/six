@@ -1,0 +1,8 @@
+---
+- hosts: localhost
+  tasks:
+  - name: create file
+    copy:
+      dest: "/usr/ansible/sample.txt"
+      content:
+       - radhika gali
