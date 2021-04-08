@@ -5,9 +5,6 @@
   file:
     path: "/host/ansible/sample.txt"
     state: touch
-<<<<<<< HEAD
     radhika
-=======
     my name:wq
     
->>>>>>> b367cdb626904f69cc3c435449aa44072c3417ef
