@@ -5,3 +5,5 @@
   file:
     path: "/host/ansible/sample.txt"
     state: touch
+    my name:wq
+    
